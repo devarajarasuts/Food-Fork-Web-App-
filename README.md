@@ -2,8 +2,8 @@
 
 How to Use?
 
-download files and run 
-npm install
+download files and run <br>
+npm install<br>
 npm start
 
 that should get ur website running and up in localserver
