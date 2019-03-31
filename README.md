@@ -8,7 +8,7 @@ npm start
 
 that should get ur website running and up in localserver
 
-What is Food2Fork
+What is Food2Fork?
 
 This web app is built using the Food2Fork Recipe API https://www.food2fork.com/about/api using javascript we are obtaining the API data to use on our website for the specific options we search.
 
